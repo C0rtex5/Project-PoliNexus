@@ -33,7 +33,7 @@ The credit go all to them and for the main add-ons and the software, I only keep
 
 ## Installation
 
-1. Download the portable repack form this repositor and the addon listed.
+1. Download the portable repack form this repository and the addon listed.
 2. Launch the portable Blender executable.
 3. Install each add‑on via **Edit → Preferences → Add‑ons → Install...** and select the `.py` or `.zip` files.
 
