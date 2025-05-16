@@ -63,9 +63,9 @@ The instalation commands are bleow (If you are using Windows 11 or 10 just insta
 - Activate the add-on
 - Done
 
-### Stable Diffusion Add‑on
+## Stable Diffusion Add‑on
 
-## Setup Steps:
+### Setup Steps:
 
 - Download the add-on file
 - Extract and locate the add-on
@@ -73,9 +73,9 @@ The instalation commands are bleow (If you are using Windows 11 or 10 just insta
 - Activate the add-on
 - Done
 
-### Autocloner Add‑on
+## Autocloner Add‑on
 
-## Setup Steps:
+### Setup Steps:
 
 - Download the add-on in this repository
 - Extract and locate the add-on
@@ -84,6 +84,26 @@ The instalation commands are bleow (If you are using Windows 11 or 10 just insta
 - Done
 
 ---
+
+## Themes
+
+### Dark
+
+**Setup Steps:**
+
+- Open this [link](https://extensions.blender.org/themes/midnight-blue-theme/)
+- Open the modded Blender -> Edit -> Preferences -> Themes -> Drag and drop there -> Confirm and install
+- Select the desired theme
+- Done
+
+### Light
+
+**Setup Steps:**
+
+- Open this [link](https://extensions.blender.org/themes/deepsea-explorer/)
+- Open the modded Blender -> Edit -> Preferences -> Themes -> Drag and drop there -> Confirm and install
+- Select the desired theme
+- Done
 
 ## Usage
 
@@ -104,6 +124,8 @@ The istructions are listed below:
   - SurgeonTalus: [Profile](https://github.com/SurgeonTalus)
   - Ben Rugg: [Profile](https://github.com/benrugg)
   - Cortex: [Profile](https://github.com/C0rtex5)
+  - williamchange: [Profile](https://github.com/williamchange)
+  - DeathShot-747: [Profile](https://extensions.blender.org/author/1515/)
     
 ---
 
