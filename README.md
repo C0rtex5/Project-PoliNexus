@@ -49,6 +49,8 @@ The credit go all to them and for the main add-ons and the software, I only keep
 
 The instalation commands are bleow (If you are using Windows 11 or 10 just install the .exe installer from [Ollama](https://ollama.com/download) website):
 
+## The commands required from Ollama:
+
 ```bash
 # ollama run deepseek-coder-v2:16b
 # ollama run qwen2.5-coder:7b
