@@ -1,7 +1,5 @@
 # Project PoliNexus
 
----
-
 ## Introduction
 
 This repository is an adaptation based from a fork of the open source 3D modelling software, Blender from Blender Foundation, this lists for adding the add-ons from other developers and one developed from myself, which has it own repository.
@@ -15,11 +13,16 @@ The credit go all to them and for the main add-ons and the software, I only keep
 ### For linux:
 
 - The main file
-- 
+- The add-ons and extensions list
+- Ollama
+- Login or Sign up on Stable diffusion platform (Credit Based platform)
 
 ### For Windows 11 and 10:
 
 - The main file
+- The add-ons and extensions list
+- Ollama
+- Login or Sign up on Stable diffusion platform (Credit Based platform)
 
 ### For both:
 
@@ -27,6 +30,12 @@ The credit go all to them and for the main add-ons and the software, I only keep
 
 - Graphics card with at minimum 6 gb vram and ddr6 (the weakest used is a RTX 4050 6gb laptop)
 - At last an good hexacore processor (The weakest used is an ryzen 5 3600 desktop)
+
+## Installation
+
+1. Download the portable repack form this repositor and the addon listed.
+2. Launch the portable Blender executable.
+3. Install each add‑on via **Edit → Preferences → Add‑ons → Install...** and select the `.py` or `.zip` files.
 
 ## Ollama Companion Add‑on
 
@@ -38,72 +47,51 @@ The credit go all to them and for the main add-ons and the software, I only keep
 - [Qwen Coder (install the latest)](https://ollama.com/library/qwen2.5-coder)
 - [LLaMA 3.2 (install the main command)](https://ollama.com/library/llama3.2)
 
-Place your installation commands here (If you are using Windows just install the .exe form [Ollama](https://ollama.com/download) website):
+The instalation commands are bleow (If you are using Windows 11 or 10 just install the .exe installer from [Ollama](https://ollama.com/download) website):
 
 ```bash
-# Ollama install command
-# deepseek coder v2 install command
-# qwen coder install command
-# llama 3.2 install command
+# ollama run deepseek-coder-v2:16b
+# ollama run qwen2.5-coder:7b
+# ollama run ollama run llama3.2
 ```
+
+## Setup Steps:
+
+- Download the add-on
+- Extract and locate the add-on
+- Open the modded Blender -> Edit -> Preferences -> Add-ons -> Dropdown arrow -> Install
+- Activate the add-on
+- Done
 
 ### Stable Diffusion Add‑on
 
-Required dependencies for the Stable Diffusion add‑on:
+## Setup Steps:
 
-* List any Python packages or external tools
-* GPU drivers or CUDA toolkit (if applicable)
-  -.
-
-Place your installation commands here:
-
-```bash
-# pip install ...
-# conda install ...
-```
+- Download the add-on file
+- Extract and locate the add-on
+- Open the modded Blender -> Edit -> Preferences -> Add-ons -> Dropdown arrow -> Install
+- Activate the add-on
+- Done
 
 ### Autocloner Add‑on
 
-This add‑on relies only on the Blender Python API.
+## Setup Steps:
 
-* **Blender Python library version 4.2 or above**
-
-Place your installation commands here (if any):
-
-```bash
-# Example: ensure Blender uses Python 4.2+
-```
-
----
-
-## Installation
-
-1. Download or clone this repository.
-2. Launch the portable Blender executable.
-3. Install each add‑on via **Edit → Preferences → Add‑ons → Install...** and select the `.py` or `.zip` files.
-
-### Installing Add‑ons
-
-```bash
-# Example terminal commands for add‑on activation
-```
+- Download the add-on in this repository
+- Extract and locate the add-on
+- Open the modded Blender -> Edit -> Preferences -> Add-ons -> Dropdown arrow -> Install
+- Activate the add-on
+- Done
 
 ---
 
 ## Usage
 
-Provide examples of how to activate and use each add‑on within Blender.
+The istructions are listed below:
 
----
-
-## Add‑ons Included
-
-List all add‑ons used in this project:
-
-* Ollama Companion Add‑on
-* Stable Diffusion Add‑on
-* Autocloner Add‑on
-* **Your other add‑on names here**
+- Ollama: [Instructions link](https://github.com/SurgeonTalus/OllamaBlenderBridge)
+- Stable Diffusion: [Instructions link](https://www.youtube.com/watch?v=tmyln5bwnO8)
+- Bpy File Cloner: Select where the .blend file clones will be stored on the folder icon, select the time to 1 to 60 min, pause and play the addon on the **drag menu**
 
 ---
 
@@ -111,10 +99,14 @@ List all add‑ons used in this project:
 
 * Forked from the [Blender](https://github.com/blender/blender) repository.
 * Original authors and contributors of Blender.
-* Creators of each add‑on integrated here.
-
+* Creators of each add‑on integrated below:
+  
+  - SurgeonTalus: [Profile](https://github.com/SurgeonTalus)
+  - Ben Rugg: [Profile](https://github.com/benrugg)
+  - Cortex: [Profile](https://github.com/C0rtex5)
+    
 ---
 
 ## License
 
-State your project's license (e.g., MIT, GPL).
+Open Source Liscense. Use as you please.
