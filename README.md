@@ -4,7 +4,7 @@
 
 This repository is an adaptation based from a fork of the open source 3D modelling software, Blender from Blender Foundation, this lists for adding the add-ons from other developers and one developed from myself, which has it own repository.
 
-The credit go all to them and for the main add-ons and the software, I only keep the add-on that I develop, the Bpy File Autocloner.
+The credit go all to them and for the main add-ons and the software, I only keep the add-on that I developed, the Bpy File Autocloner.
 
 ---
 
