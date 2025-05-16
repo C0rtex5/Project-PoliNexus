@@ -120,7 +120,7 @@ The istructions are listed below:
 ## Credits
 
 * Forked from the [Blender](https://github.com/blender/blender) repository.
-* Original authors and contributors of Blender.
+* Original authors and contributors of [Blender](https://www.blender.org/).
 * Creators of each add‑on integrated below:
   
   - SurgeonTalus: [Profile](https://github.com/SurgeonTalus)
